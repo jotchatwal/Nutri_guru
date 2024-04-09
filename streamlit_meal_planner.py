@@ -6,7 +6,7 @@ import openai
 from datetime import datetime
 import os
 
-import cv2
+# import cv2
 import numpy as np
 from tensorflow.keras.applications import VGG16, ResNet50, MobileNet
 from tensorflow.keras.applications.vgg16 import preprocess_input as preprocess_input_vgg
